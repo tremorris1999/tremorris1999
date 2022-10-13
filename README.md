@@ -4,9 +4,9 @@
 [![MyEmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trevormorrisdev@gmail.com)
 
 ## About Me
-I'm a soon-to-be Bachelor of Computer Science (Minor in Mathematics) and a lifelong jack-of-all-trades from [Eastern Washington University](https://www.ewu.edu/) with an insatiable hunger for knowledge and information. Over the years I've become obsessed learning all I can in as many disciplines as I find myself interested in... whether that be game engines, gasoline engines, anatomy, gorgeous views, fractals, or something in between. Always on the hunt for my next hyperfixation!
+I am a Bachelor of Computer Science (Minor in Mathematics) and a lifelong jack-of-all-trades from [Eastern Washington University](https://www.ewu.edu/) with an insatiable hunger for knowledge and information. Over the years I've become obsessed learning all I can in as many disciplines as I find myself interested in... whether that be game engines, gasoline engines, anatomy, gorgeous views, fractals, or something in between. Always on the hunt for my next hyperfixation!
 
-Currently, I'm a junior developer in the transport industry around [Spokane, WA](https://en.wikipedia.org/wiki/Spokane,_Washington) (starting this June) as well as a shift manager (and driver) at my local Pizza Hut.
+Currently, I'm a junior developer in the transport industry around [Spokane, WA](https://en.wikipedia.org/wiki/Spokane,_Washington) .
 
 Interests include:
 - GPU Computing
@@ -28,7 +28,7 @@ My current spare-time project is a small, application specific game engine for a
 
 [MirrorLog](https://github.com/tremorris1999/MirrorLog) - Logging library ~~in desperate need of refactoring~~ built for use in Mirror.
 
-[Website](https://github.com/tremorris1999/WebPortfolio) - My personal website/portfolio where I'd ideally like to showcase some of my work.
+[PogSharp](https://github.com/tremorris1999/PogSharp) - Lightweight Twitch API binding for downloading clips.
 
 ## Stats & More
 
