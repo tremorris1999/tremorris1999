@@ -20,15 +20,15 @@ Interests include:
 - many, many more...
 
 ## Projects
-My current spare-time project is a small, application specific game engine for an FPS project I'm keeping under wraps. I'm also taking this opportunity to write a few C++ libraries to use in said project. There's a handful of other personal projects I'm also working on, but between full time school and full time work, contributions and progress can be few and far between.
+My current spare-time project is a small, application specific game engine for an FPS project I'm keeping under wraps. I'm also taking this opportunity to write a few C++ libraries to use in said project. There's a handful of other personal projects I'm also working on, but between being a full time C# developer and balancing an obscene amount of hobbies, contributions and progress can be few and far between.
 
-[Mirror](https://github.com/tremorris1999/Mirror) - The game engine no one ever asked for. 😎
+[PogSharp](https://github.com/tremorris1999/PogSharp) - Lightweight Twitch API binding for downloading clips.
+
+[Mirror](https://github.com/tremorris1999/Mirror) - The game engine no one ever asked for (nor will ever see finished). 😎
 
 [MirrorModel](https://github.com/tremorris1999/MirrorModel) - Model loading library built for Mirror.
 
 [MirrorLog](https://github.com/tremorris1999/MirrorLog) - Logging library ~~in desperate need of refactoring~~ built for use in Mirror.
-
-[PogSharp](https://github.com/tremorris1999/PogSharp) - Lightweight Twitch API binding for downloading clips.
 
 ## Stats & More
 
