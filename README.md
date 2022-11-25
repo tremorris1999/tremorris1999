@@ -33,4 +33,5 @@ My current spare-time project is a small, application specific game engine for a
 ## Stats & More
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tremorris1999&count_private=false&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tremorris1999&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tremorris1999&layout=dracula)
