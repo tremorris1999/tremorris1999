@@ -24,12 +24,6 @@ My current spare-time project is a small, application specific game engine for a
 
 [PogSharp](https://github.com/tremorris1999/PogSharp) - Lightweight Twitch API binding for downloading clips.
 
-[Mirror](https://github.com/tremorris1999/Mirror) - The game engine no one ever asked for (nor will ever see finished). 😎
-
-[MirrorModel](https://github.com/tremorris1999/MirrorModel) - Model loading library built for Mirror.
-
-[MirrorLog](https://github.com/tremorris1999/MirrorLog) - Logging library ~~in desperate need of refactoring~~ built for use in Mirror.
-
 ## Stats & More
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tremorris1999&count_private=false&theme=dracula)
