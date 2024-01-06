@@ -24,6 +24,11 @@ My current spare-time project is a small, application specific game engine for a
 
 [PogSharp](https://github.com/tremorris1999/PogSharp) - Lightweight Twitch API binding for downloading clips.
 
+## Open Source Contributions
+I've contributed to the following open-source repos:
+
+- [Bevy XPBD](https://github.com/Jondolf/bevy_xpbd)
+
 ## Stats & More
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tremorris1999&count_private=false&theme=dracula)
